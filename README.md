@@ -26,6 +26,10 @@ it, simply add the following line to your Podfile:
     
 ## What's new ?
 
+2016-04-01
+
+> Header files updated to support Swift 2.0, still need to test and confirm on that. Spelling mistakes corrected.
+
 2016-02-07
 
 > OneToOne relationship bug fixed.
@@ -42,11 +46,6 @@ it, simply add the following line to your Podfile:
 > Ignoring object properties are possible.
 > Debugger is now enabled to table level for more convenience.
 > Relationship mapping logic updated. (Please note; current methods are changed accordingly)
-
-2016-04-01
-
-> Header files updated to support Swift 2.0, still need to test and confirm on that. Spelling mistakes corrected.
-
 
 2015-08-07
 
